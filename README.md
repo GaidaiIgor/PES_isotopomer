@@ -1,6 +1,7 @@
-`isotopologue_coordinates_conversion.f90` is a Fortran module for conversion between Euler coordinates of two rigid rotor molecules and Euler coordinates of their isotopomers.
-Can be used to generate Potential Energy Surfaces for isotopomers in Euler coordinates.
-See the comments in the source files for more detailed description.
+Fortran modules for conversion between Euler coordinates of two rigid rotor molecules and Euler coordinates of their isotopomers.
+Can be used to convert the Potential Energy Surface of the main isotopomer to rare isotopomers. See the comments in the source files for more detailed description.
+
+`isotopologue_coordinates_conversion.f90` is the main conversion module. 
 
 `constants.f90` and `lapack.f90` are auxiliary modules.
 
