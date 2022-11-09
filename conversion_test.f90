@@ -2,7 +2,7 @@
 ! Tests isotopologue_coordinates_conversion_mod module.
 !-------------------------------------------------------------------------------------------------------------------------------------------
 program conversion_test
-  use isotopologue_coordinates_conversion_mod
+  use isotopomer_coordinates_conversion_mod
   use iso_fortran_env, only: real64
   implicit none
   

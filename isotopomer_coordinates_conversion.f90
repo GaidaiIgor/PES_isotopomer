@@ -1,4 +1,4 @@
-module isotopologue_coordinates_conversion_mod
+module isotopomer_coordinates_conversion_mod
   use iso_fortran_env, only: real64
   use lapack_interface_mod
   implicit none
